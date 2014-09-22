@@ -47,39 +47,39 @@ We've designed the plugin so that it's both easy to use as well as offering a wi
 
 After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): 
 
-/assets/1-Menu-overview.png
+1-Menu-overview.png
 
 1.) Select which icons you want to display on your website: 
 
-/assets/2-Select-icons.png
+2-Select-icons.png
 
 2.) Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page): 
 
-/assets/3-Icon-functions.png
+3-Icon-functions.png
 
 3.) Pick from a wide range of icon designs: 
 
-/assets/4-Icon-Design.png
+4-Icon-Design.png
 
 4.) Animate your icons (automatic shuffling, mouse-over effects etc.): 
 
-/assets/5-Icon-Animation.png
+5-Icon-Animation.png
 
 5.) Display counts next to your icons (optional): 
 
-/assets/6-Counts.png
+6-Counts.png
 
 6.) Select from a wide range of other options for your icons (optional): 
 
-/assets/7-Other-options.png
+7-Other-options.png
 
 7.) Add share-icons at the end of every post (optional): 
 
-/assets/8-Post-icons.png
+8-Post-icons.png
 
 8.) Display a pop-up, asking users to like & share your site (optional):
 
-/assets/9-Pop-up.png
+9-Pop-up.png
 
 
 
