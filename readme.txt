@@ -43,23 +43,23 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Screenshots ==
 
-1. After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): screenshot-1.png
+1. After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs)
 
-2. Select which icons you want to display on your website: screenshot-2.png
+2. Select which icons you want to display on your website
 
-3. Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page): screenshot-3.png
+3. Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page)
 
-4. Pick from a wide range of icon designs: screenshot-4.png
+4. Pick from a wide range of icon designs
 
-5. Animate your icons (automatic shuffling, mouse-over effects etc.): screenshot-5.png
+5. Animate your icons (automatic shuffling, mouse-over effects etc.)
 
-6. Display counts next to your icons (optional): screenshot-6.png
+6. Display counts next to your icons (optional)
 
-7. Select from a wide range of other options for your icons (optional): screenshot-7.png
+7. Select from a wide range of other options for your icons (optional)
 
-8. Add share-icons at the end of every post (optional): screenshot-8.png
+8. Add share-icons at the end of every post (optional)
 
-9. Display a pop-up, asking users to like & share your site (optional): screenshot-9.png
+9. Display a pop-up, asking users to like & share your site (optional)
 
 
 
