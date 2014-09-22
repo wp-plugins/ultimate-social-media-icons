@@ -43,8 +43,6 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Screenshots ==
 
-We've designed the plugin so that it's both easy to use as well as offering a wide functionality. 
-
 1. After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): screenshot-1.png
 
 2. Select which icons you want to display on your website: screenshot-2.png
