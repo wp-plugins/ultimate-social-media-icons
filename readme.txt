@@ -1,9 +1,9 @@
 === Ultimate Social Media Icons and Share Plugin (Facebook, Twitter, Google Plus, Instagram, Pinterest etc.) ===
-Contributors: specificfeeds.com
+Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
-Tested up to: 3.9
-License: GPLv2 or later
+Tested up to: 4.0
+License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
