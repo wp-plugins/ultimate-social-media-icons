@@ -43,23 +43,23 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Screenshots ==
 
-1. After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs)
+1. After installing the plugin, you'll see this overview. You'll be taken through the easy-to-understand steps to configure your plugin 
 
-2. Select which icons you want to display on your website
+2. As a first step you select which icons you want to display on your website
 
-3. Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page)
+3. Then you'll define what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page)
 
-4. Pick from a wide range of icon designs
+4. You can pick from a wide range of icon designs
 
-5. Animate your icons (automatic shuffling, mouse-over effects etc.)
+5. Here you can animate your icons (automatic shuffling, mouse-over effects etc.), to make visitors of your site aware that they can share, follow & like your site
 
-6. Display counts next to your icons (optional)
+6. You can choose to display cunts next to your icons (e.g. number of Twitter-followers)
 
-7. Select from a wide range of other options for your icons (optional)
+7. There are many more options to choose from 
 
-8. Add share-icons at the end of every post (optional)
+8. You can also add share-icons at the end of every post 
 
-9. Display a pop-up, asking users to like & share your site (optional)
+9. ...or even display a pop-up (designed to your liking) which asks users to like & share your site
 
 
 
