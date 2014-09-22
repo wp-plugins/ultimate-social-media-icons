@@ -45,41 +45,23 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 We've designed the plugin so that it's both easy to use as well as offering a wide functionality. 
 
-After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): 
+1. After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): screenshot-1.png
 
-screenshot-1.png
+2. Select which icons you want to display on your website: screenshot-2.png
 
-1.) Select which icons you want to display on your website: 
+3. Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page): screenshot-3.png
 
-screenshot-2.png
+4. Pick from a wide range of icon designs: screenshot-4.png
 
-2.) Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page): 
+5. Animate your icons (automatic shuffling, mouse-over effects etc.): screenshot-5.png
 
-screenshot-3.png
+6. Display counts next to your icons (optional): screenshot-6.png
 
-3.) Pick from a wide range of icon designs: 
+7. Select from a wide range of other options for your icons (optional): screenshot-7.png
 
-screenshot-4.png
+8. Add share-icons at the end of every post (optional): screenshot-8.png
 
-4.) Animate your icons (automatic shuffling, mouse-over effects etc.): 
-
-screenshot-5.png
-
-5.) Display counts next to your icons (optional): 
-
-screenshot-6.png
-
-6.) Select from a wide range of other options for your icons (optional): 
-
-screenshot-7.png
-
-7.) Add share-icons at the end of every post (optional): 
-
-screenshot-8.png
-
-8.) Display a pop-up, asking users to like & share your site (optional):
-
-screenshot-9.png
+9. Display a pop-up, asking users to like & share your site (optional): screenshot-9.png
 
 
 
