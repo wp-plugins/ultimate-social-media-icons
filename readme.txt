@@ -27,13 +27,13 @@ The plugin offers a wide range of options, for example you can:
 
 The plugin is very easy to use as it takes you through all the steps: 
 
-Step 1: Choose which icons you want to display 
-Step 2: Define what actions your icons should perform
-Step 3: Pick design & animation options for your icons
-Step 4: Add counts to your icons (optional)
-Step 5: Select from various other options, e.g. make your icons "float"
-Step 6: Add sharing/linking icons next to each blog post (optional)
-Step 7: Add a customized pop-up asking people to follow/share (optional)
+- Step 1: Choose which icons you want to display
+- Step 2: Define what actions your icons should perform
+- Step 3: Pick design & animation options for your icons
+- Step 4: Add counts to your icons (optional)
+- Step 5: Select from various other options, e.g. make your icons "float"
+- Step 6: Add sharing/linking icons next to each blog post (optional)
+- Step 7: Add a customized pop-up asking people to follow/share (optional)
 
 
 == Installation ==
