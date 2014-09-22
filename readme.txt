@@ -1,4 +1,4 @@
-=== Ultimate Social Media Icons and Share Plugin (Facebook, Twitter, Google Plus, Instagram, Pinterest etc.) ===
+=== Ultimate Social Media Icons and Share Plugin (Facebook,Twitter,Google Plus,Instagram,Pinterest etc.) ===
 Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
@@ -40,3 +40,46 @@ The plugin is very easy to use as it takes you through all the steps:
 Extract the zip file and drop the contents into the wp-content/plugins/ directory of your WordPress installation. Then activate the plugin from the plugins page.
 
 Then go to plugin settings page and follow the instructions. After you're done, go to the Widget area (Appearance >> Widget) and place the widget on your sidebar to display your your icons on your blog.
+
+== Screenshots ==
+
+We've designed the plugin so that it's both easy to use as well as offering a wide functionality. 
+
+After installing the plugin, you see the following overview (the steps take you through the process of configuring the plugin to your needs): 
+
+/assets/1-Menu-overview.png
+
+1.) Select which icons you want to display on your website: 
+
+/assets/2-Select-icons.png
+
+2.) Select what the icons should do (they can perform several actions, e.g. lead users to your facebook page, or allow them to share your content on their facebook page): 
+
+/assets/3-Icon-functions.png
+
+3.) Pick from a wide range of icon designs: 
+
+/assets/4-Icon-Design.png
+
+4.) Animate your icons (automatic shuffling, mouse-over effects etc.): 
+
+/assets/5-Icon-Animation.png
+
+5.) Display counts next to your icons (optional): 
+
+/assets/6-Counts.png
+
+6.) Select from a wide range of other options for your icons (optional): 
+
+/assets/7-Other-options.png
+
+7.) Add share-icons at the end of every post (optional): 
+
+/assets/8-Post-icons.png
+
+8.) Display a pop-up, asking users to like & share your site (optional):
+
+/assets/9-Pop-up.png
+
+
+
