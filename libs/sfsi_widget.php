@@ -119,7 +119,7 @@ function sfsi_check_visiblity($isFloter=0)
 	  
                 $shuffle_time=(isset($sfsi_section3['sfsi_shuffle_intervalTime'])) ? $sfsi_section3['sfsi_shuffle_intervalTime'] : 3;
                 $shuffle_time=$shuffle_time*1000;
-                $jquery.="SFSI( document ).ready(function( $ ) {  SFSI('.sfsi_wDiv').each(function(){ new window.Manipulator( SFSI(this)); });  setTimeout(function(){  SFSI('#sfsi_wDiv').each(function(){ SFSI(this).click(); })},500);  setInterval(function(){  SFSI('.sfsi_wDiv').each(function(){ SFSI(this).click(); })},".$shuffle_time."); });";
+                $jquery.="SFSI( document ).ready(function( $ ) {  SFSI('.sfsi_wDiv').each(function(){ new window.Manipulator( SFSI(this)); });  setTimeout(function(){  SFSI('#sfsi_wDiv').each(function(){ SFSI(this).click(); })},500);  setInterval(function(){  SFSI('#sfsi_wDiv').each(function(){ SFSI(this).click(); })},".$shuffle_time."); });";
         }
 	else if($sfsi_section3['sfsi_shuffle_Firstload']=="no" && $sfsi_section3['sfsi_shuffle_interval']=="yes")
         {   
