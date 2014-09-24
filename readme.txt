@@ -1,8 +1,9 @@
-=== Ultimate Social Media Icons and Share Plugin (Facebook,Twitter,Google Plus,Instagram,Pinterest etc.) ===
+=== Ultimate Social Media Icons and Share Plugin (Facebook,Twitter,Google+,Instagram,Pinterest etc.) ===
 Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
 Tested up to: 4.0
+Stable tag: 1.0.1
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,4 +63,13 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 9. ...or even display a pop-up (designed to your liking) which asks users to like & share your site
 
 
+== Changelog ==
+
+= 1.0.1 =
+* Email-icon didn't get displayed for all design sets (on the website), this is fixed now
+* Alignments of buttons in tooltips optimized
+* Updated readme.txt
+
+= 1.0 =
+* First release
 
