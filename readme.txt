@@ -65,6 +65,9 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.1 =
+* Corrected that when only the "visit us" function is selected, no tooltip is displayed
+
 = 1.1 =
 * Email-icon didn't get displayed for all design sets (on the website), this is fixed now
 * Alignments of buttons in tooltips optimized
