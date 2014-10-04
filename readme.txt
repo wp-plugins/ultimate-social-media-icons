@@ -1,4 +1,4 @@
-=== Ultimate Social Media and Share Icons ===
+=== Ultimate Social Media and Share Icons (Twitter, Facebook, Google+, Instagram, Pinterest etc.) ===
 Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
