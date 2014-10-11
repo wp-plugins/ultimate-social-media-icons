@@ -54,7 +54,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 5. Here you can animate your icons (automatic shuffling, mouse-over effects etc.), to make visitors of your site aware that they can share, follow & like your site
 
-6. You can choose to display cunts next to your icons (e.g. number of Twitter-followers)
+6. You can choose to display counts next to your icons (e.g. number of Twitter-followers)
 
 7. There are many more options to choose from 
 
