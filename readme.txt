@@ -3,7 +3,7 @@ Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.0.3
+Stable tag: 1.1.0.4
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,12 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.4 =
+* Several changes done to optimize display on mobile & tablets
+* Issues with widget fixed (in rare cases the separating lines between widgets didnt get displayed correctly)
+* Deletion of headline for widget works now
+* Slight alignment issues of share- and like buttons at the end of blog posts corrected
+
 = 1.1.0.3 =
 * Tooltip from share-option sometimes appeared some other strange places on the site, this is fixed now
 * Extra checks added if user enters nonsense in the admin area
@@ -89,7 +95,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.3 =
-Minor bug fixes (for special cases), no update required if you didn't see any issues on your blog
+= 1.1.0.4 =
+Several changes done to optimize display on mobile & tablets
 
 
