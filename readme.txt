@@ -3,7 +3,7 @@ Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.0.4
+Stable tag: 1.1.0.5
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,13 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.5 =
+* On certain pages sometimes the youtube icon didnt show, this is fixed now
+* Custom uploaded icons got a black background, this is fixed now
+* In the admin panel the plugin conflicted (in rare cases) with other plugins, this is fixed 
+* Pop-ups sometimes didn't disappear automatically, fixed now
+* The tooltip for floating icons now gets displayed so that it is always visible
+
 = 1.1.0.4 =
 * Several changes done to optimize display on mobile & tablets
 * Issues with widget fixed (in rare cases the separating lines between widgets didnt get displayed correctly)
@@ -95,7 +102,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.4 =
-Several changes done to optimize display on mobile & tablets
+= 1.1.0.5 =
+Minor changes done (no update required if you didn't experience any problems on your blog)
 
 
