@@ -3,7 +3,7 @@ Contributors: Socialdude
 Tags: social media, social media icons, email, rss, rss2email, facebook, twitter, google+, pinterest, instagram, youtube, linkedin, sharing icons, subscription icons, social media popup, subscription popup, floating social media icons, popup, free, newsletter, follow
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.0.5
+Stable tag: 1.1.0.6
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,10 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.6 =
+* If "Do you want to display icons at end of every post" is clicked there were some issues on mobile view, this is fixed now
+* "Visit us"-icons in the tooltips were no vector-icons, which made them look fuzzy in some browsers, this is fixed now
+
 = 1.1.0.5 =
 * On certain pages sometimes the youtube icon didnt show, this is fixed now
 * Custom uploaded icons got a black background, this is fixed now
@@ -102,7 +106,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.5 =
+= 1.1.0.6 =
 Minor changes done (no update required if you didn't experience any problems on your blog)
 
 
