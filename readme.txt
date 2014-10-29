@@ -114,7 +114,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.6 =
-Minor changes done (no update required if you didn't experience any problems on your blog)
+= 1.1.0.7 =
+Several bugs fixed, so please update
 
 
