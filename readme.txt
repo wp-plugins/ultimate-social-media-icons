@@ -3,7 +3,7 @@ Contributors: socialdude
 Tags: social media, social media icons, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.0.6
+Stable tag: 1.1.0.7
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,14 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.7 =
+* "Visit us" icons sometimes didn't get displayed in the backend, this is fixed now
+* Also the design of the "Visit us"-icons on the front end has been improved
+* If the email-delivery option is used, emails now get sent out much faster (central server gets pinged)
+* Pop-up in some cases didn't get shown on inner pages, fixed now
+* Some responsive adjustments for mobile
+* Custom icons had some resizing issues, fixed now
+
 = 1.1.0.6 =
 * If "Do you want to display icons at end of every post" is clicked there were some issues on mobile view, this is fixed now
 * "Visit us"-icons in the tooltips were no vector-icons, which made them look fuzzy in some browsers, this is fixed now
@@ -106,7 +114,5 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.6 =
-Minor changes done (no update required if you didn't experience any problems on your blog)
-
-
+= 1.1.0.7 =
+Several bugs fixed, so please update
