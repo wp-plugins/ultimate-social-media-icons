@@ -1,9 +1,9 @@
 === Ultimate Social Media and Share Icons (Twitter, Facebook, Google+, Instagram, Pinterest etc.) ===
 Contributors: socialdude
-Tags: social media, social media icons, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
+Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.0.7
+Stable tag: 1.1.0.8
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,10 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Changelog ==
 
+= 1.1.0.8 =
+* In specific cases some share-icons were missing, this is fixed now
+* Plugin sent error messages if user had developer mode active, this won't happen anymore
+
 = 1.1.0.7 =
 * "Visit us" icons sometimes didn't get displayed in the backend, this is fixed now
 * Also the design of the "Visit us"-icons on the front end has been improved
@@ -114,5 +118,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.7 =
-Several bugs fixed, so please update
+= 1.1.0.8 =
+Only minor bugs fixed, if you didn't see any issues then you don't have to upgrade
+
+
