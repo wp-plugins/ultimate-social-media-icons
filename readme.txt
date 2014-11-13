@@ -122,7 +122,7 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 == Upgrade Notice ==
 
-= 1.1.0.8 =
+= 1.1.0.9 =
 Only minor bugs fixed, if you didn't see any issues then you don't have to upgrade
 
 
