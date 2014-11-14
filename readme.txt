@@ -42,6 +42,8 @@ Extract the zip file and drop the contents into the wp-content/plugins/ director
 
 Then go to plugin settings page and follow the instructions. After you're done, go to the Widget area (Appearance >> Widget) and place the widget on your sidebar to display your your icons on your blog.
 
+Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case). If you don't have it, please contact your hosting provider.
+
 == Screenshots ==
 
 1. After installing the plugin, you'll see this overview. You'll be taken through the easy-to-understand steps to configure your plugin 
