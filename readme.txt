@@ -68,7 +68,7 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Changelog ==
 
 = 1.1.1.1 =
-* Previously custom icons got deleted if plugin was upgraded - fixed now (now using standard WP functionalities for icon upload)
+* Previously custom icons got deleted if plugin was upgraded. This is fixed *from now on*. If you previously uploaded a custom icon, please do so (once) more. Sorry for the inconvenience.  
 * Question #5 The "Sticking & Floating" -> "Where shall they float?" was storing the right value but showing the "Top - Left" always
 * If the floating icons on the frontend had "counts" enabled for them, the counts for the last row of the icons were being cut-off on the screen if the "Bottom - Left" OR "Bottom - Right" was chosen as the display position 
 
