@@ -68,6 +68,7 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Changelog ==
 
 = 1.1.1.2 =
+* Roll-back to this version as 1.1.1.3 caused some issues
 * Shortcode now available too, so that you can place the icons wherever you want: Insert [DISPLAY_ULTIMATE_SOCIAL_ICONS]
 * "Visit us"-option now also available for Twitter-users
 * Description added for people helping to find their LinkedIn-ID
@@ -142,4 +143,4 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Upgrade Notice ==
 
 = 1.1.1.2 =
-Several points fixed, but no need to update if you didn't experience any issues
+Roll back to 1.1.1.2 as 1.1.1.3 caused several issues 
