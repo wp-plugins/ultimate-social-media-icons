@@ -68,16 +68,10 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Changelog ==
 
 = 1.1.1.3 =
-* Now it's also possible to upload custom icons which replace the default icons (so that they can perform all the actions which the standard icons perform)
-* Sometimes an incorrect picture got shared, this is fixed now
-* Error message issue using F12 dev tools fixed
-* Twitter "Visit us"-icon now has mouse-over effect
-* Alignment of icons in Twitter-tooltip corrected
-* Several issues fixed which caused conflicts with specific CSS 
-* Upload of custom icon didn't work in specific cases, fixed now
-* If icons were inserted via shortcode it sometimes still displayed a text above them, this is fixed now
+* Several CSS issues fixed
 
 = 1.1.1.2 =
+* Roll-back to this version as 1.1.1.3 caused some issues
 * Shortcode now available too, so that you can place the icons wherever you want: Insert [DISPLAY_ULTIMATE_SOCIAL_ICONS]
 * "Visit us"-option now also available for Twitter-users
 * Description added for people helping to find their LinkedIn-ID
@@ -152,4 +146,4 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Upgrade Notice ==
 
 = 1.1.1.3 =
-Several points fixed, but no need to update if you didn't experience any issues
+Several CSS issues fixed, no need to update if you didn't experience any issues

@@ -60,9 +60,7 @@
                  <li><input name="sfsi_actvite_theme" <?php echo ( $option3['sfsi_actvite_theme']=='shaded_light') ?  'checked="true"' : '' ;?>  type="radio" value="shaded_light" class="styled"  /><label>Shaded Light</label><div class="icns_tab_3"><span class="row_15_1 rss_section"></span><span class="row_15_2 email_section"></span><span class="row_15_3 facebook_section"></span><span class="row_15_4 google_section"></span><span class="row_15_5 twitter_section"></span><span class="row_15_6 share_section"></span><span class="row_15_7 youtube_section"></span><span class="row_15_8 pinterest_section"></span><span class="row_15_9 linkedin_section"></span><span class="row_15_10 instagram_section"></span><!--<span class="row_15_11 sf_section"></span>--></div></li>
                  
                 <li><input name="sfsi_actvite_theme" <?php echo ( $option3['sfsi_actvite_theme']=='transparent') ?  'checked="true"' : '' ;?> type="radio" value="transparent" class="styled" /><label style="line-height:20px !important;margin-top:15px;  ">Transparent <br/><span style="font-size: 9px;" >(for dark backgrounds)</span></label> <div class="icns_tab_3 trans_bg" style="padding-left: 6px;"><span class="row_16_1 rss_section"></span><span class="row_16_2 email_section"></span><span class="row_16_3 facebook_section"></span><span class="row_16_4 google_section"></span><span class="row_16_5  twitter_section"></span><span class="row_16_6 share_section"></span><span class="row_16_7 youtube_section"></span><span class="row_16_8 pinterest_section"></span><span class="row_16_9 linkedin_section"></span><span class="row_16_10 instagram_section"></span><!--<span class="row_16_11 sf_section"></span>--></div></li>
-
-				<!--Custom Icon Support {Monad}-->
-                <li class="cstomskins_upload"><input name="sfsi_actvite_theme" <?php echo ( $option3['sfsi_actvite_theme']=='custom_support') ?  'checked="true"' : '' ;?> type="radio" value="custom_support" class="styled" /><label style="line-height:20px !important;margin-top:15px;  ">Custom Icons <br/></label></li>	                
+                
                 
               </ul><!--icon themes section start -->
 	  

@@ -95,62 +95,7 @@ function sfsi_depened_sections() {
 function CustomIConSectionsUpdate() {
     sfsi_section_Display("counter".ele, show);
 }
-// Upload Custom Skin {Monad}
-function sfsi_customskin_upload(s, ref)
-{
-	var ttl = jQuery(ref).attr("title");
-	var i = s, e = {
-        action:"UploadSkins",
-        custom_imgurl:i
-    };
-	
-	SFSI.ajax({
-        url:ajax_object.ajax_url,
-        type:"post",
-        data:e,
-        success:function(msg) {
-			 if (msg.res = "success")
-			 {
-				 var arr = s.split('=');
-				 jQuery(ref).prev('.imgskin').attr('src', arr[1]);
-				 jQuery(ref).prev('.imgskin').css("display","block");
-				 jQuery(ref).text("Update");
-				 jQuery(ref).next('.dlt_btn').css("display","block");
-			 }
-        }
-    });
-}
-// Delete Custom Skin {Monad}
-function deleteskin_icon(s)
-{
-	var iconname = jQuery(s).attr("title");
-	var i = iconname, e = {
-        action:"DeleteSkin",
-        iconname:i
-    };
-	
-	SFSI.ajax({
-        url:ajax_object.ajax_url,
-        type:"post",
-        data:e,
-        success:function(msg) {
-			 if (msg.res = "success")
-			 {
-				 SFSI(s).prev("a").text("Upload");
-				 SFSI(s).prev("a").prev("img").attr("src",'');
-				 SFSI(s).prev("a").prev("img").css("display","none");
-				 SFSI(s).css("display","none");
-			 }
-        }
-    });
-}
-// Save Custom Skin {Monad}
-function SFSI_done()
-{
-	SFSI(".cstmskins-overlay").hide("slow");
-	sfsi_update_step3() && sfsicollapse(this);
-}
-// Upload Custom Icons {Monad}
+
 function sfsi_newcustomicon_upload(s) {
     var i = s, e = {
         action:"UploadIcons",
@@ -623,7 +568,7 @@ function sfsi_stick_widget(s) {
 }
 
 function sfsi_float_widget(s) {
-	function i() {
+    function i() {
         r = "Microsoft Internet Explorer" === navigator.appName ? a - document.documentElement.scrollTop :a - window.pageYOffset, 
         Math.abs(r) > 0 ? (window.removeEventListener("scroll", i), a -= r * o, SFSI("#sfsi_floater").css({
             top:(a + t).toString() + "px"
@@ -688,18 +633,7 @@ window.onerror = function() {}, SFSI = jQuery.noConflict(), SFSI(window).load(fu
 var global_error = 0;
 
 SFSI(document).ready(function(s) {
-    //changes done {Monad}
-	SFSI(".tab_3_icns").on("click", ".cstomskins_upload", function() {
-		SFSI(".cstmskins-overlay").show("slow", function() {
-            e = 0;
-        });
-	});
-	SFSI("#custmskin_clspop").live("click", function() {
-        SFSI(".cstmskins-overlay").hide("slow");
-    });
-	//changes done {Monad}
-	
-	function i() {
+    function i() {
         SFSI(".uperror").html(""), afterLoad();
         var s = SFSI('input[name="' + SFSI("#upload_id").val() + '"]');
         s.removeAttr("checked");
@@ -777,11 +711,6 @@ SFSI(document).ready(function(s) {
     }), SFSI("div#facebook").find(".icon1").find("a").find("img").mouseover(function() {
         SFSI(this).css("opacity", "0.9");
     }), SFSI("div#facebook").find(".icon1").find("a").find("img").mouseleave(function() {
-        SFSI(this).css("opacity", "1");
-	/*{Monad}*/
-	}), SFSI("div#twitter").find(".cstmicon1").find("a").find("img").mouseover(function() {
-        SFSI(this).css("opacity", "0.9");
-    }), SFSI("div#twitter").find(".cstmicon1").find("a").find("img").mouseleave(function() {
         SFSI(this).css("opacity", "1");
     }), SFSI("#sfsiBackgroundColorPicker").ColorPicker({
         color:"#f80000",
@@ -1076,4 +1005,5 @@ SFSI(document).ready(function(s) {
         SFSI('input[name="sfsi_shuffle_interval"]').removeAttr("checked"), SFSI('input[name="sfsi_shuffle_interval"]').parent().find("span").css("background-position", "0px 0px"));
     });
 });
+
 var initTop = new Array();

@@ -21,7 +21,7 @@
     <li class="gary_bg">
     <div class="radio_section tb_4_ck">
 	<input name="sfsi_email_display" <?php echo ($option1['sfsi_email_display']=='yes') ?  'checked="true"' : '' ;?> id="sfsi_email_display" type="checkbox" value="yes" class="styled"  /></div>
-        <span class="sfsicls_email">Email</span> 
+        <span class="email">Email</span> 
         <div class="right_info">
         <p><span>"Mandatory":</span> Email is the most effective tool to build up a followership.
 	    <span style="float: right;margin-right: 13px; margin-top: -3px;"><?php if(get_option('sfsi_footer_sec')=="yes") { ?> <a style="font-size:13px;margin-left:30px;color:#777777;" href="javascript:;" class="sfsi_removeFooter" >Remove credit link</a> <?php } ?></span>
@@ -34,7 +34,7 @@
      <!-- FACEBOOK ICON -->
     <li class="gary_bg">
     <div class="radio_section tb_4_ck"><input name="sfsi_facebook_display" <?php echo ($option1['sfsi_facebook_display']=='yes') ?  'checked="true"' : '' ;?> id="sfsi_facebook_display" type="checkbox" value="yes" class="styled"  /></div>
-        <span class="sfsicls_facebook">Facebook</span> 
+        <span class="facebook">Facebook</span> 
         <div class="right_info">
         <p><span>Strongly recommended:</span> Facebook is crucial, esp. for sharing.
         
@@ -70,7 +70,7 @@
    <!-- SHARE ICON --> 
    <li class="gary_bg">
         <div class="radio_section tb_4_ck"><input name="sfsi_share_display" <?php echo ($option1['sfsi_share_display']=='yes') ?  'checked="true"' : '' ;?> id=="sfsi_share_display" type="checkbox" value="yes" class="styled"  /></div>
-        <span class="sfsicls_share">Share</span> 
+        <span class="share">Share</span> 
         <div class="right_info">
         <p><span>Recommended:</span> With this button you can allow your visitors to share your site via «all the other» social media sites.
             <label class="expanded-area" >Everybody uses email – that’s why it’s <a href="http://www.entrepreneur.com/article/230949" target="_new">much more effective than social media </a> to make people follow you. Not offering an email subscription option means losing out on future traffic to your site.</label>
@@ -100,7 +100,7 @@
    <!-- PINTEREST ICON -->
    <li>
 	<div class="radio_section tb_4_ck"><input name="sfsi_pinterest_display" <?php echo ($option1['sfsi_pinterest_display']=='yes') ?  'checked="true"' : '' ;?> id="sfsi_pinterest_display"  type="checkbox" value="yes" class="styled"  /></div>
-	<span class="sfsicls_pinterest">Pinterest</span> 
+	<span class="pinterest">Pinterest</span> 
 	<div class="right_info">
 	    <p><span>It depends:</span> Show this icon if you have a Pinterest account (and you should set up one if you have publish new pictures regularly – that can increase your traffic significantly).</p>
 	</div>
@@ -109,7 +109,7 @@
    <!-- INSTAGRAM ICON -->
    <li>
         <div class="radio_section tb_4_ck"><input name="sfsi_instagram_display" <?php echo ($option1['sfsi_instagram_display']=='yes') ?  'checked="true"' : '' ;?> id="sfsi_instagram_display"  type="checkbox" value="yes" class="styled"  /></div>
-        <span class="sfsicls_instagram">Instagram</span> 
+        <span class="instagram">Instagram</span> 
         <div class="right_info">
 	    <p><span>It depends:</span> Show this icon if you have a Instagram account.</p>
         </div>

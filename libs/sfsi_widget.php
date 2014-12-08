@@ -53,7 +53,7 @@ class Sfsi_Widget extends WP_Widget {
 		<p>
 		    <label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e('Title:', 'Subscription and Social Icons'); ?></label>
 		    <input id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" value="<?php echo $instance['title']; ?>" style="width:100%;" />
-		    <input type="hidden" value="<?php echo $instance['showf'] ?>" id="<?php echo $this->get_field_id( 'showf' ); ?>" name="<?php echo $this->get_field_name( 'showf' ); ?>" />
+		    <input type="hidden" value="<?php echo $instance['showf'] ?>" id="<?php echo $this->get_field_id( 'showf' ); ?>" name="<?php echo $this->get_field_name( 'showf' ); ?>" 
 		</p>
 		 <p>
 		     Please go to  the <a href="admin.php?page=sfsi-options">plugin page</a> to set your preferences
@@ -306,25 +306,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                          $counts=$socialObj->format_num($sfsi_section4_options['sfsi_rss_manualCounts']);
                      } 
                      $alt_text= $sfsi_section5_options['sfsi_rss_MouseOverText'];
-				
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-				 if(get_option("rss_skin"))
-				 {
-					$icon = get_option("rss_skin");
-				 }
-				 else
-				 {
-					$active_theme = 'default';
-					$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-					$icon=$icons_baseUrl.$active_theme."_rss.png"; 
-				 }
-				}
-				else
-				{
-				$icon=$icons_baseUrl.$active_theme."_rss.png";
-				}		 
+                     $icon=$icons_baseUrl.$active_theme."_rss.png";
         break;
         case "email" : $socialObj=new sfsi_SocialHelper();  /* global object to access 3rd party icon's actions */	
 		       $hoverdiv='';		
@@ -341,25 +323,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                          }  
                        } 
                       $alt_text= $sfsi_section5_options['sfsi_email_MouseOverText'];
-					  
-			//Custom Skin Support {Monad}	 
-			if($active_theme == 'custom_support')
-			{
-			 if(get_option("email_skin"))
-			 {
-				$icon = get_option("email_skin");
-			 }
-			 else
-			 {
-				$active_theme = 'default';
-				$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-				$icon=($sfsi_section2_options['sfsi_rss_icons']=="sfsi") ? $icons_baseUrl.$active_theme."_sf.png" : $icons_baseUrl.$active_theme."_email.png"; 
-			 }
-			}
-			else
-			{
-				$icon=($sfsi_section2_options['sfsi_rss_icons']=="sfsi") ? $icons_baseUrl.$active_theme."_sf.png" : $icons_baseUrl.$active_theme."_email.png";
-			}
+                      $icon=($sfsi_section2_options['sfsi_rss_icons']=="sfsi") ? $icons_baseUrl.$active_theme."_sf.png" : $icons_baseUrl.$active_theme."_email.png";
         break;
         case "facebook" :
                     $socialObj=new sfsi_SocialHelper();
@@ -370,6 +334,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 		    $arrow_class="bot_fb_arow";
 		    /* check for the over section */
                     $alt_text= $sfsi_section5_options['sfsi_facebook_MouseOverText'];
+                    $icon=$icons_baseUrl.$active_theme."_facebook.png";
                     $visit_icon=$visit_iconsUrl."facebook.png";
 		    $url=($sfsi_section2_options['sfsi_facebookPage_url']) ? $sfsi_section2_options['sfsi_facebookPage_url']:'javascript:void(0);';
                     if($sfsi_section2_options['sfsi_facebookLike_option']=="yes" || $sfsi_section2_options['sfsi_facebookShare_option']=="yes" )
@@ -413,25 +378,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                             
                          }
                      } 
-			
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("facebook_skin"))
-					 {
-						$icon = get_option("facebook_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_facebook.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_facebook.png";
-				}		 
+
         break;
         case "google" :                    
                      $toolClass="gpls_tool_bdr";
@@ -441,6 +388,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 		     $totwith=$width+28+$icons_space;
 		     $twt_margin=$totwith/2;
                      $alt_text= $sfsi_section5_options['sfsi_google_MouseOverText'];
+                     $icon=$icons_baseUrl.$active_theme."_google.png";
                      $visit_icon=$visit_iconsUrl."google.png";
 		     $url=($sfsi_section2_options['sfsi_google_pageURL'])?$sfsi_section2_options['sfsi_google_pageURL'] : 'javascript:void(0);';
                     /* check for icons to display */     
@@ -490,25 +438,6 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 			     }
                          }   
                      } 
-				
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("google_skin"))
-					 {
-						$icon = get_option("google_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_google.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_google.png";
-				}		 
         break;
         case "twitter" :
 		     $toolClass="twt_tool_bdr";
@@ -521,13 +450,12 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 			 $width=59;
 		     $totwith=$width+28+$icons_space;
 		     $twt_margin=$totwith/2;
-             /* check for icons to display */
+                     /* check for icons to display */
 		     $hoverdiv='';
 			 ///print_r($sfsi_section2_options);
                      if($sfsi_section2_options['sfsi_twitter_followme']=="yes" || $sfsi_section2_options['sfsi_twitter_aboutPage']=="yes" || $sfsi_section2_options['sfsi_twitter_page']=="yes")
                      {
                          $hoverSHow=1;
-						 //Visit twitter page {Monad}	 
 						 if($sfsi_section2_options['sfsi_twitter_page']=="yes")
                          {
                               $hoverdiv.="<div  class='cstmicon1'><a href='".$url."' ".sfsi_checkNewWindow($url)."><img alt='Visit Us' title='Visit Us' src='".$visit_icon."'  /></a></div>";  
@@ -567,25 +495,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                          }
                      } 
                      $alt_text= $sfsi_section5_options['sfsi_twitter_MouseOverText'];
-                 
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("twitter_skin"))
-					 {
-						$icon = get_option("twitter_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_twitter.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_twitter.png";
-				}
+                     $icon=$icons_baseUrl.$active_theme."_twitter.png";
         break;
         case "share" :
                       $socialObj=new sfsi_SocialHelper();
@@ -609,26 +519,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 			      } 
                       }  
                       $alt_text= $sfsi_section5_options['sfsi_share_MouseOverText'];
-                
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("share_skin"))
-					 {
-						$icon = get_option("share_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_share.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_share.png";
-				}	  
-					  
+                      $icon=$icons_baseUrl.$active_theme."_share.png";
         break;
         case "youtube" :
 		     $socialObj=new sfsi_SocialHelper();
@@ -640,6 +531,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                      $twt_margin=$totwith/2;
                      $youtube_user=(isset($sfsi_section4_options['sfsi_youtube_user']) && !empty($sfsi_section4_options['sfsi_youtube_user'])) ? $sfsi_section4_options['sfsi_youtube_user'] : 'SpecificFeeds';
                      $alt_text= $sfsi_section5_options['sfsi_youtube_MouseOverText'];
+                     $icon=$icons_baseUrl.$active_theme."_youtube.png";
                      $visit_icon=$visit_iconsUrl."youtube.png";
                      $url=($sfsi_section2_options['sfsi_youtube_pageUrl'])? $sfsi_section2_options['sfsi_youtube_pageUrl'] : 'javascript:void(0);';
                      /* check for icons to display */
@@ -673,26 +565,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 			       $counts=(string) "0";
 			     }
                          }
-                     }
-			
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("youtube_skin"))
-					 {
-						$icon = get_option("youtube_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_youtube.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_youtube.png";
-				}	  
+                     } 
        break;
        case "pinterest" :
 		     $width=73;
@@ -705,6 +578,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                      $pinterest_user=$sfsi_section4_options['sfsi_pinterest_user'];
                      $pinterest_board=$sfsi_section4_options['sfsi_pinterest_board'];
                      $alt_text= $sfsi_section5_options['sfsi_pinterest_MouseOverText'];
+                     $icon=$icons_baseUrl.$active_theme."_pinterest.png";
                      $visit_icon=$visit_iconsUrl."pinterest.png";
 		     $url=(isset($sfsi_section2_options['sfsi_pinterest_pageUrl'])) ? $sfsi_section2_options['sfsi_pinterest_pageUrl'] : 'javascript:void(0);';
                      /* check for icons to display */  
@@ -747,26 +621,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                          }
                           
                           
-                   }
-				
-				//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("pintrest_skin"))
-					 {
-						$icon = get_option("pintrest_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_pinterest.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_pinterest.png";
-				}	                
+                   }             
         break;
 	case "instagram" :		 
 		     $toolClass="instagram_tool_bdr";
@@ -775,7 +630,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
                      $url=(isset($sfsi_section2_options['sfsi_instagram_pageUrl'])) ? $sfsi_section2_options['sfsi_instagram_pageUrl'] : 'javascript:void(0);';
                      $instagram_user_name=$sfsi_section4_options['sfsi_instagram_User'];
                      $alt_text= $sfsi_section5_options['sfsi_instagram_MouseOverText'];
-                     
+                     $icon=$icons_baseUrl.$active_theme."_instagram.png";
 		     $hoverdiv="";
                     /* fecth no of counts if active in admin section */ 
                      if($sfsi_section4_options['sfsi_instagram_countsDisplay']=="yes" && $sfsi_section4_options['sfsi_display_counts']=="yes")
@@ -794,24 +649,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 			     }
                          }      
                      }
-            	//Custom Skin Support {Monad}	 
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("instagram_skin"))
-					 {
-						$icon = get_option("instagram_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_instagram.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_instagram.png";
-				}
+            
         break;
         case "linkedin" :
 		     $width=66;
@@ -874,25 +712,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
 		     $totwith=$width+28+$icons_space;
 		     $twt_margin=$totwith/2;
                      $alt_text= $sfsi_section5_options['sfsi_linkedIn_MouseOverText'];
-               
-			   //Custom Skin Support {Monad}	  
-				if($active_theme == 'custom_support')
-				{
-					 if(get_option("linkedin_skin"))
-					 {
-						$icon = get_option("linkedin_skin");
-					 }
-					 else
-					 {
-						$active_theme = 'default';
-						$icons_baseUrl = SFSI_PLUGURL."/images/icons_theme/default/";
-						$icon=$icons_baseUrl.$active_theme."_linkedin.png";
-					 }
-				}
-				else
-				{
-					$icon=$icons_baseUrl.$active_theme."_linkedin.png";
-				}	 
+                     $icon=$icons_baseUrl.$active_theme."_linkedin.png";
             break;   
            default:
 		      $border_radius="";
@@ -976,7 +796,7 @@ function sfsi_prepairIcons($icon_name,$is_front=0)
       }
     $icons.= "<div style='width:".$icon_width."px; height:".$icon_width."px;margin-left:".$icons_space."px;margin-bottom:".$margin_bot."' class='sfsi_wicons ".$cmcls."'>";
     $icons.= "<div class='inerCnt'>";
-    $icons.= "<a class='".$class." sficn' effect='".$mouse_hover_effect."' . $new_window.  href='".$url."' id='sfsiid_".$icon_name."' alt='".$alt_text."' style='opacity:".$icon_opacity."' >";     
+    $icons.= "<a class='".$class." sficn' effect='".$mouse_hover_effect."' . $new_window.  href='".$url."' id='".$icon_name."' alt='".$alt_text."' style='opacity:".$icon_opacity."' >";     
     $icons.= "<img alt='".$alt_text."' title='".$alt_text."' src='".$icon."' width='".$icons_size."' style='".$border_radius.$padding_top."' class='sfcm sfsi_wicon' effect='".$mouse_hover_effect."'   />"; 
     $icons.= '</a>';
    if(isset($counts) &&  $counts!=''){

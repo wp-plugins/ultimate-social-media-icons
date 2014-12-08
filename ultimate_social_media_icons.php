@@ -7,6 +7,7 @@ Author: UltimatelySocial
 Author URI: http://ultimatelysocial.com
 Version: 1.1.1.3
 License: GPLv2 or later
+
 */
 
 global $wpdb;
@@ -32,7 +33,7 @@ register_activation_hook(__FILE__, 'sfsi_activate_plugin' );
 register_deactivation_hook(__FILE__, 'sfsi_deactivate_plugin');
 register_uninstall_hook(__FILE__, 'sfsi_Unistall_plugin');
 
-//shortcode for the ultimate social icons {Monad}
+//shortcode for the ultimate social icons
 add_shortcode("DISPLAY_ULTIMATE_SOCIAL_ICONS", "DISPLAY_ULTIMATE_SOCIAL_ICONS");
 function DISPLAY_ULTIMATE_SOCIAL_ICONS($args, $content = null)
 {
@@ -55,7 +56,7 @@ function DISPLAY_ULTIMATE_SOCIAL_ICONS($args, $content = null)
 	{
 		$title = "Please follow & like us :)";
 	}
-	$instance = array("showf" => 1, "title" => '');
+	$instance = array("showf" => 1, "title" => $title);
 
 	$return = '';
 	//return $sfsi_obj->widget($args, $instance);
@@ -75,32 +76,5 @@ function DISPLAY_ULTIMATE_SOCIAL_ICONS($args, $content = null)
 	  
 	$return .= $after_widget;
 	return $return;
-}
-
-//adding some meta tags for facebook news feed {Monad}
-add_action('wp_head', 'ultimatefbmetatags');
-function ultimatefbmetatags()
-{
-	$post_id = get_the_ID();
-	$attachment_id = get_post_thumbnail_id($post_id);
-	if($attachment_id)
-	{
-		$feat_image = wp_get_attachment_url( $attachment_id );
-		if (preg_match('/https/',$feat_image))
-		{
-			echo '<meta property="og:image:secure_url" content="'.$feat_image.'">';
-		}
-		else
-		{
-			echo '<meta property="og:image" content="'.$feat_image.'">';
-		}
-		$metadata = wp_get_attachment_metadata( $attachment_id );
-		$image_type = $metadata['sizes']['post-thumbnail']['mime-type'];
-		$width = $metadata['width'];
-		$height = $metadata['height'];
-		echo '<meta property="og:image:type" content="'.$image_type.'">';
-		echo '<meta property="og:image:width" content="'.$width.'">';
-		echo '<meta property="og:image:height" content="'.$height.'">';
-	}
 }
 ?>
