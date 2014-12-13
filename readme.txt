@@ -10,6 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
 
 == Description ==
+#### The update to version 1.1.1.4 caused some issues (now rolled back to 1.1.1.3). If you did the upgrade and faced issues, please contact us at support at ultiamtelysocial dot com ######
+
+
 This 100% FREE  plugin allows you to display social media icons on your website, and allows tons of customization features!
 
 You can add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
@@ -146,4 +149,4 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Upgrade Notice ==
 
 = 1.1.1.3 =
-Several issues fixed, no need to update if you didn't experience any issues
+Several CSS issues fixed, no need to update if you didn't experience any issues
