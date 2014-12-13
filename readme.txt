@@ -70,6 +70,8 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 = 1.1.1.4 =
 
 * If given only a "visit us"-function for the Twitter-icon, the is no tooltip anymore (like for the other icons)
+* Replacing standard icons with new custom icons is now possible
+* Width of twitter tooltip now adjusts to username followed
 * Sharing sometimes pulled an incorrect image, fixed now
 * Pop-up now also has an "x" in the top right corner for people to close
 * Sometimes icons overlapped, this is fixed now
