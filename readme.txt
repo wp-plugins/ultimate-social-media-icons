@@ -10,7 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
 
 == Description ==
-#### The update to version 1.1.1.4 caused some issues (now rolled back to 1.1.1.3). If you did the upgrade and faced issues, please contact us at support at ultiamtelysocial dot com ######
+#### The update to version 1.1.1.4 caused some issues (now rolled back to 1.1.1.3). If you did the upgrade and faced issues, please contact us at support at ultimatelysocial dot com ######
+
+
 
 
 This 100% FREE  plugin allows you to display social media icons on your website, and allows tons of customization features!
