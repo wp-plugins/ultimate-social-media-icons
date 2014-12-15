@@ -356,12 +356,9 @@ function sfsi_rating_msg()
     global $wp_version;
     $install_date = get_option('sfsi_installDate');
     $display_date = date('Y-m-d h:i:s');
-	
 	$datetime1 = new DateTime($install_date);
 	$datetime2 = new DateTime($display_date);
-	$interval = $datetime1->diff($datetime2);
-	$diff_inrval = $interval->format('%a');
-	
+	$diff_inrval = round(($datetime2->format('U') - $datetime1->format('U')) / (60*60*24));
     if($diff_inrval >= 30 && get_option('sfsi_RatingDiv')=="no")
     {
 	 echo '
