@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arpan
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.1.5
+Stable tag: 1.1.1.4
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,7 +68,7 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Changelog ==
 
-= 1.1.1.5 =
+= 1.1.1.4 =
 * If given only a "visit us"-function for the Twitter-icon, the is no tooltip anymore (like for the other icons)
 * Sharing sometimes pulled an incorrect image, fixed now
 * Pop-up now also has an "x" in the top right corner for people to close
@@ -81,9 +81,6 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 * Steps 1., 2., 3. in the guide how to upload a custom icon were sometimes missing, this is fixed now
 * Title removed now when using shortcodes
 * Some error messages in developer tools not showing up anymore
-
-= 1.1.1.4 =
-* Rolled back
 
 = 1.1.1.3 =
 * Several CSS issues fixed
@@ -162,5 +159,5 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Upgrade Notice ==
 
-= 1.1.1.5 =
+= 1.1.1.4 =
 Several points fixed (see changelog), however no need to update if you didn't experience any issues
