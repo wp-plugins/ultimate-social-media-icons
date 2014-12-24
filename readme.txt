@@ -69,14 +69,13 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 == Changelog ==
 
 = 1.1.1.5 =
-* Conflicts with Advanced Custom Fields removed
-* Icons can now also be disabled on mobiles
-* "Channel Name" for Youtube changed to "Username" to avoid confusion
-* Conflicts with Accordion fixed
-* Lightbox sometimes appeared too large, this is fixed now
-* Sub-menu of button on the left hand side of plugin removed as it was not needed
-* On some templates the icons were not correctly aligned, this is fixed now
-* All tags of the icon shown now (for SEO reasons) 
+* Conflicts with several plugins sorted
+* Icons can now be disabled on mobile
+* Renaming of "Youtube Channel" to "Username" to avoid confusion
+* On some templates there were alignment issues of the icons, this is fixed
+* Menu button sub-menu removed (wasn't really necessary)
+* Lightbox in admin area for custom icon upload shortened (was too large)
+* Tags for all icons defined (for SEO purposes) 
 
 = 1.1.1.4 =
 * If given only a "visit us"-function for the Twitter-icon, the is no tooltip anymore (like for the other icons)
@@ -169,5 +168,5 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Upgrade Notice ==
 
-= 1.1.1.4 =
-Several points fixed, incl. some conflicts with other plugins
+= 1.1.1.5 =
+Several points fixed (see changelog)

@@ -2850,15 +2850,14 @@ ul#adminmenu li.toplevel_page_sfsi-options div.wp-menu-image {
 }
 ul#adminmenu li.toplevel_page_sfsi-options a.toplevel_page_sfsi-options {
     color: #e12522;
-    transition-duration: 0s;
+	transition: 0s;
     background: url(images/left_log_icn.png) 6px 15px no-repeat #000;
 }
 ul#adminmenu li.toplevel_page_sfsi-options a.toplevel_page_sfsi-options:hover {
-    background: url(images/left_log_icn.png) 6px -43px no-repeat #4b4b4b;
+    background: url(images/left_log_icn.png) 6px -43px no-repeat #444444;
     color: #fafafa;
-    transition-duration: 0s;
 }
-ul#adminmenu li.toplevel_page_sfsi-options a.toplevel_page_sfsi-options, ul#adminmenu li.toplevel_page_sfsi-options a.toplevel_page_sfsi-options:hover {
+ul#adminmenu li.toplevel_page_sfsi-options a.current, ul#adminmenu li.toplevel_page_sfsi-options a.current:hover {
     background: url(images/left_log_icn.png) 6px -43px no-repeat #e12522;
     color: #fafafa;
 }
@@ -3053,11 +3052,12 @@ ul.SFSI_instructions li {
 	width: 500px;
     background: #FFF;
     box-shadow: 0 0 5px 3px #d8d8d8;
-    margin: 20px 0px auto;
-    padding: 20px 25px 60px;
+    margin: 40px 0px auto;
+    padding: 20px 25px 20px;
     font-family: helveticaregular;
     color: #5a6570;
-    min-height: 550px;
+    height: auto;
+	float: left;
 	position: relative;
 	left: 35%;	
 }
