@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=arpan
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.1.5
+Stable tag: 1.1.1.6
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,9 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 
 == Changelog ==
+
+= 1.1.1.6 =
+* jQuery updated, now most conflicts with other plugins should be resolved
 
 = 1.1.1.5 =
 * Conflicts with several plugins sorted
@@ -168,5 +171,5 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Upgrade Notice ==
 
-= 1.1.1.5 =
-Several points fixed (see changelog)
+= 1.1.1.6 =
+jQuery updated, now most conflicts with other plugins should be resolved
