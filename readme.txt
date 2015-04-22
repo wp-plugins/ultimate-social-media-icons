@@ -71,12 +71,6 @@ In video: http://screencast.com/t/o0sfAgyqjWBH
 
 Yes, please use [DISPLAY_ULTIMATE_SOCIAL_ICONS]. You can place it into any editor. 
 
-If you want to enter it into a php file, please use the following code: 
-
-<?php 
-echo do_shortcode( '[DISPLAY_ULTIMATE_SOCIAL_ICONS]' );
-?>
-
 Please note that this plugin https://wordpress.org/plugins/ultimate-social-media-plus/ has even more placement options. 
 
 = How can I place icons before every post, or on the blog homepage? =
