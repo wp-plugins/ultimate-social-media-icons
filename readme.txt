@@ -87,7 +87,7 @@ Yes. For that please go to question 5 and select to display only 1 icon per row.
 
 = I have difficulties uploading custom icons - why is that? = 
 
-Most likely that’s because you’ve set "allow_url_fopen" to "off". Please turn it to "on" (or ask your server admin to do so - he'll know what to do). 
+Most likely that's because you've set "allow_url_fopen" to "off". Please turn it to "on" (or ask your server admin to do so - he'll know what to do). 
 
 = My Youtube icon doesn't work = 
 
@@ -95,7 +95,7 @@ Please ensure that you've selected the radio button "Username" when you enter a 
 
 = This is a great plugin! How can I say "Thank you"? = 
 
-By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation on https://wordpress.org/plugins/ultimate-social-media-icons/ (search for "Donate to this plugin" on the right hand side) :)
+By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation - check the "Donate to this plugin" on the right hand side)
 
 = Are you guys open for taking on client work? = 
 
