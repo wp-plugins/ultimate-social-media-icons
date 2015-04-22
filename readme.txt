@@ -51,19 +51,19 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 Please don't forget to enter the "http://" at the beginning of the link. 
 
-= How can I change the “Please follow & like us :)” if I placed the icons via a widget? =
+= How can I change the "Please follow & like us :)" if I placed the icons via a widget? =
 
 You can change that in the Widget-area where you dropped the widget on the sidebar. Please click on it (on the sidebar), it will open the menu where you can change the text. 
 
 For you visual people: http://screencast.com/t/euuqTzbJ 
 
-If you don’t want to show any text, just enter a space (“ “).
+If you don't want to show any text, just enter a space (" ").
 
-= How can I remove the credit-link (“powered by Ultimatelysocial”)? =
+= How can I remove the credit-link ("Powered by Ultimatelysocial")? =
 
-Open the first question in the plugin (“1. Where do you want to display the icons?”), on the level of the email-icon you see a link on the right hand side. Please click it to remove the credit link. 
+Open the first question in the plugin ("1. Where do you want to display the icons?"), on the level of the email-icon you see a link on the right hand side. Please click it to remove the credit link. 
 
-Please note that we didn’t place the credit link without your consent (you agreed to it when de-selecting the email-icon). 
+Please note that we didn't place the credit link without your consent (you agreed to it when de-selecting the email-icon). 
 
 In video: http://screencast.com/t/o0sfAgyqjWBH
 
@@ -93,15 +93,15 @@ Yes. For that please go to question 5 and select to display only 1 icon per row.
 
 = I have difficulties uploading custom icons - why is that? = 
 
-Most likely that’s because you’ve set “allow_url_fopen” to “off”. Please turn it to “on” (or ask your server admin to do so – he’ll know what to do). 
+Most likely that’s because you’ve set "allow_url_fopen" to "off". Please turn it to "on" (or ask your server admin to do so - he'll know what to do). 
 
 = My Youtube icon doesn't work = 
 
 Please ensure that you've selected the radio button "Username" when you enter a youtube username, or "Channel ID" when you entered a channel ID. 
 
-= This is a great plugin! How can I say “Thank you”? = 
+= This is a great plugin! How can I say "Thank you"? = 
 
-By giving us a 5-star rating :) You can give your “Thank you” even more strength with a donation on https://wordpress.org/plugins/ultimate-social-media-icons/ (search for "Donate to this plugin" on the right hand side) :)
+By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation on https://wordpress.org/plugins/ultimate-social-media-icons/ (search for "Donate to this plugin" on the right hand side) :)
 
 = Are you guys open for taking on client work? = 
 
