@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.r
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1.1.8
+Stable tag: 1.1.1.9
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,28 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 
 == Changelog ==
+
+= 1.1.1.9 =
+* Issues with custom icon upload & custom icon removal fixed
+* Box asking for review didn't disappear in some cases, fixed now
+* Some design issues with some CSS for icons after every post, fixed now
+* Changes in text / guide in plugin
+* Conflicts with YOAST SEO plugin sorted
+* Conflicts with ADD MEDIA button and ADD LINK sorted
+* In some cases activating the icons after every post the content disappeared, this is fixed now
+* New option to center icons after posts
+* In some cases if no widget was placed it said "Kindly go to settings page and check the option "show them via widget"" got displayed on the blog, this is fixed now
+* G+ window disappeared sometimes after moving over it, fixed now
+* LinkedIn icon disappeared after moving over it a few times, fixed now
+* Several other CSS issues fixed
+* Sometimes tooltips didn't appear, fixed now
+* When plugin is activated some toggle functionality stopped working, fixed now
+* Click on icons after posts now shares the post, not the blog page
+* Several little design enhancements
+* When user selected that icons should show floating in the bottom right they floated in the center right, fixed now
+* Issues with Youtube direct follow fixed
+* Number of Instagram followers not always got pulled correctly, fixed now
+* When site loaded the widget sometimes overlapped with others, fixed now
 
 = 1.1.1.8 =
 * Plugin's menu button now has less aggressive colors 
