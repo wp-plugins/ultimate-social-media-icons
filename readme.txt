@@ -45,6 +45,68 @@ Then go to plugin settings page and follow the instructions. After you're done, 
 
 Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case). If you don't have it, please contact your hosting provider.
 
+== Frequently Asked Questions ==
+
+= Some of the links I entered don't work =
+
+Please don't forget to enter the "http://" at the beginning of the link. 
+
+= How can I change the “Please follow & like us :)” if I placed the icons via a widget? =
+
+You can change that in the Widget-area where you dropped the widget on the sidebar. Please click on it (on the sidebar), it will open the menu where you can change the text. 
+
+For you visual people: http://screencast.com/t/euuqTzbJ 
+
+If you don’t want to show any text, just enter a space (“ “).
+
+= How can I remove the credit-link (“powered by Ultimatelysocial”)? =
+
+Open the first question in the plugin (“1. Where do you want to display the icons?”), on the level of the email-icon you see a link on the right hand side. Please click it to remove the credit link. 
+
+Please note that we didn’t place the credit link without your consent (you agreed to it when de-selecting the email-icon). 
+
+In video: http://screencast.com/t/o0sfAgyqjWBH
+
+= Do you also offer a shortcode to place the icons? =
+
+Yes, please use [DISPLAY_ULTIMATE_SOCIAL_ICONS]. You can place it into any editor. 
+
+If you want to enter it into a php file, please use the following code: 
+
+<?php 
+echo do_shortcode( '[DISPLAY_ULTIMATE_SOCIAL_ICONS]' );
+?>
+
+Please note that this plugin https://wordpress.org/plugins/ultimate-social-media-plus/ has even more placement options. 
+
+= How can I place icons before every post, or on the blog homepage? =
+
+This is possible in this plugin: https://wordpress.org/plugins/ultimate-social-media-plus/
+
+= I don't want to place the standard icons after every post, but my main icons which I selected under question 1. How can I do this? = 
+
+This is possible in this plugin: https://wordpress.org/plugins/ultimate-social-media-plus/
+
+= Can I also display the icons vertically (on top of each other)? =
+
+Yes. For that please go to question 5 and select to display only 1 icon per row. 
+
+= I have difficulties uploading custom icons - why is that? = 
+
+Most likely that’s because you’ve set “allow_url_fopen” to “off”. Please turn it to “on” (or ask your server admin to do so – he’ll know what to do). 
+
+= My Youtube icon doesn't work = 
+
+Please ensure that you've selected the radio button "Username" when you enter a youtube username, or "Channel ID" when you entered a channel ID. 
+
+= This is a great plugin! How can I say “Thank you”? = 
+
+By giving us a 5-star rating :) You can give your “Thank you” even more strength with a donation on https://wordpress.org/plugins/ultimate-social-media-icons/ (search for "Donate to this plugin" on the right hand side) :)
+
+= Are you guys open for taking on client work? = 
+
+Yes, absolutely. We build websites (incl. design), web applications and software, plugins :) and do theme customizations. Get in touch with us at support at ultimatelysocial dot com. 
+
 == Screenshots ==
 
 1. After installing the plugin, you'll see this overview. You'll be taken through the easy-to-understand steps to configure your plugin 
