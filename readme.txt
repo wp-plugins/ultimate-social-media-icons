@@ -93,6 +93,12 @@ Most likely that's because you've set "allow_url_fopen" to "off". Please turn it
 
 Please ensure that you've selected the radio button "Username" when you enter a youtube username, or "Channel ID" when you entered a channel ID. 
 
+= Aligning the icons (centered, left- or right-aligned) doesn't work = 
+
+The alignment options under question 5 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV), not where they appear on the page. 
+
+To make the icons show up at the right spot please play around with all the different placement options the plugin offers (widget, floating, or via shortcode [DISPLAY_ULTIMATE_SOCIAL_ICONS]). If that doesn't work please ask the creator of your template for advice.
+
 = This is a great plugin! How can I say "Thank you"? = 
 
 By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation - check the "Donate to this plugin" on the right hand side)
