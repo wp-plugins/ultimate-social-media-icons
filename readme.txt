@@ -97,7 +97,7 @@ Please ensure that you've selected the radio button "Username" when you enter a 
 
 The alignment options under question 5 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV), not where they appear on the page. 
 
-To make the icons show up at the right spot, please play around with all the different placement options the plugin offers (widget, floating, or via shortcode [DISPLAY_ULTIMATE_SOCIAL_ICONS]).
+To make the icons show up at the right spot please play around with all the different placement options the plugin offers (widget, floating, or via shortcode [DISPLAY_ULTIMATE_SOCIAL_ICONS]). If that doesn't work please ask the creator of your template for advice.
 
 = This is a great plugin! How can I say "Thank you"? = 
 
