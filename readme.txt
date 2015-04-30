@@ -281,5 +281,5 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 == Upgrade Notice ==
 
-= 1.1.1.8 =
-Several points fixed, however no need to upgrade if you didn't experience any problems
+= 1.1.1.10 =
+Several points fixed, please upgrade to latest version
