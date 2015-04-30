@@ -3,8 +3,8 @@ Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.1.1.9
+Tested up to: 4.2.1
+Stable tag: 1.1.1.10
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,7 +96,7 @@ Please ensure that you've selected the radio button "Username" when you enter a 
 
 = Aligning the icons (centered, left- or right-aligned) doesn't work = 
 
-The alignment options under question 5 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV), not where they appear on the page. 
+The alignment options under question 5 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV ), not where they appear on the page. 
 
 To make the icons show up at the right spot please play around with all the different placement options the plugin offers (widget, floating, or via shortcode [DISPLAY_ULTIMATE_SOCIAL_ICONS]). If that doesn't work please ask the creator of your template for advice.
 
@@ -130,6 +130,17 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 
 == Changelog ==
+
+= 1.1.1.10 =
+* OG-issues fixed
+* Text which gets shared sometimes didn't contain spaces, fixed now
+* Plugin name in php file shortened
+* More explanation texts added in admin area
+* Facebook share window sometimes only got displayed partially, fixed now
+* Other facebook share issues fixed
+* Template CSS issues causing icons to be displayed not in one straight horizontal line fixed
+* In some cases facebook counts didn't increase if liked, this should be fixed now
+* Tested for up to Wordpress version 4.2.1.
 
 = 1.1.1.9 =
 * Issues with custom icon upload & custom icon removal fixed
@@ -270,5 +281,5 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 == Upgrade Notice ==
 
-= 1.1.1.8 =
-Several points fixed, however no need to upgrade if you didn't experience any problems
+= 1.1.1.10 =
+Several points fixed, please upgrade to latest version
