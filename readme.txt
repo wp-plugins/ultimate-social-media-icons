@@ -3,8 +3,8 @@ Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
-Tested up to: 4.2.1
-Stable tag: 1.1.1.10
+Tested up to: 4.1
+Stable tag: 1.1.1.9
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -130,17 +130,6 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 
 == Changelog ==
-
-= 1.1.1.10 =
-* OG-issues fixed
-* Text which gets shared sometimes didn't contain spaces, fixed now
-* Plugin name in php file shortened
-* More explanation texts added in admin area
-* Facebook share window sometimes only got displayed partially, fixed now
-* Other facebook share issues fixed
-* Template CSS issues causing icons to be displayed not in one straight horizontal line fixed
-* In some cases facebook counts didn't increase if liked, this should be fixed now
-* Tested for up to Wordpress version 4.2.1.
 
 = 1.1.1.9 =
 * Issues with custom icon upload & custom icon removal fixed
@@ -281,5 +270,5 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 == Upgrade Notice ==
 
-= 1.1.1.10 =
-Several points fixed, please upgrade to latest version
+= 1.1.1.8 =
+Several points fixed, however no need to upgrade if you didn't experience any problems
