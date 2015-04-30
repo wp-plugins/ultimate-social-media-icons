@@ -37,6 +37,8 @@ The plugin is very easy to use as it takes you through all the steps:
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
 
+If you have any questions please contact us at "support at ultimatelysocial dot com".
+
 **Want to get alerted if a new plugin version has been released?** Subscribe here http://www.wikilerts.com/secret/getalertedif/a-new-update-for-the-ultimate-social-media-and-share-icons-p
 
 == Installation ==
