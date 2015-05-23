@@ -11,7 +11,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
 
 == Description ==
-This 100% FREE  plugin allows you to display social media icons on your website, and allows tons of customization features!
 
 You can add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
@@ -37,7 +36,7 @@ The plugin is very easy to use as it takes you through all the steps:
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
 
-In case of issues please contact us at "support at ultimatelysocial dot com"
+In case of issues please check the FAQ on http://ultimatelysocial.com 
 
 **Want to get alerted if a new plugin version has been released?** Subscribe here http://www.wikilerts.com/secret/getalertedif/a-new-update-for-the-ultimate-social-media-and-share-icons-p
 
@@ -50,65 +49,7 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Frequently Asked Questions ==
 
-= Some of the links I entered don't work =
-
-Please don't forget to enter the "http://" at the beginning of the link. 
-
-= How can I change the "Please follow & like us :)" if I placed the icons via a widget? =
-
-You can change that in the Widget-area where you dropped the widget on the sidebar. Please click on it (on the sidebar), it will open the menu where you can change the text. 
-
-For you visual people: http://screencast.com/t/euuqTzbJ 
-
-If you don't want to show any text, just enter a space (" ").
-
-= How can I remove the credit-link ("Powered by Ultimatelysocial")? =
-
-Open the first question in the plugin ("1. Where do you want to display the icons?"), on the level of the email-icon you see a link on the right hand side. Please click it to remove the credit link. 
-
-Please note that we didn't place the credit link without your consent (you agreed to it when de-selecting the email-icon). 
-
-In video: http://screencast.com/t/o0sfAgyqjWBH
-
-= Do you also offer a shortcode to place the icons? =
-
-Yes, please use [DISPLAY_ULTIMATE_SOCIAL_ICONS]. You can place it into any editor. 
-
-Please note that this plugin https://wordpress.org/plugins/ultimate-social-media-plus/ has even more placement options. 
-
-= How can I place icons before every post, or on the blog homepage? =
-
-This is possible in this plugin: https://wordpress.org/plugins/ultimate-social-media-plus/
-
-= I don't want to place the standard icons after every post, but my main icons which I selected under question 1. How can I do this? = 
-
-This is possible in this plugin: https://wordpress.org/plugins/ultimate-social-media-plus/
-
-= Can I also display the icons vertically (on top of each other)? =
-
-Yes. For that please go to question 5 and select to display only 1 icon per row. 
-
-= I have difficulties uploading custom icons - why is that? = 
-
-Most likely that's because you've set "allow_url_fopen" to "off". Please turn it to "on" (or ask your server admin to do so - he'll know what to do). 
-
-= My Youtube icon doesn't work = 
-
-Please ensure that you've selected the radio button "Username" when you enter a youtube username, or "Channel ID" when you entered a channel ID. 
-
-= Aligning the icons (centered, left- or right-aligned) doesn't work = 
-
-The alignment options under question 5 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV ), not where they appear on the page. 
-
-To make the icons show up at the right spot please play around with all the different placement options the plugin offers (widget, floating, or via shortcode [DISPLAY_ULTIMATE_SOCIAL_ICONS]). If that doesn't work please ask the creator of your template for advice.
-
-= This is a great plugin! How can I say "Thank you"? = 
-
-By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation - check the "Donate to this plugin" on the right hand side)
-
-= Are you guys open for taking on client work? = 
-
-Yes, absolutely. We build websites (incl. design), web applications and software, plugins :) and do theme customizations. Get in touch with us at support at ultimatelysocial dot com. 
+Please check out the FAQ on http://ultimatelysocial.com  
 
 == Screenshots ==
 
