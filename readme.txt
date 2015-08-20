@@ -8,31 +8,31 @@ Stable tag: 1.2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
+Social Media plugin which let's you place social media icons to your website. It's 100% FREE and the best social media plugin around with tons of customization features! 
 
 == Description ==
 
-This social media plugin let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
+Social media plugin which let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
 The social media plugin offers a wide range of options, for example you can: 
 
-- Pick from 16 different designs for your icons
-- Give several actions to one icon (e.g. your facebook icon can lead visitors to your Facebook page, and also give visitors the opportunity to like your page)
-- Decide to give your icons an animation (e.g. automatic shuffling, mouse-over effects) to make your visitors aware of them, increasing the chance that they follow/share your blog
-- Make your icons "float" or "sticky"
+- Pick from 16 different designs for your social media icons
+- Give several actions to one social media icon (e.g. your facebook icon can lead visitors to your Facebook page, and also give visitors the opportunity to like your page)
+- Decide to give your social media icons an animation (e.g. automatic shuffling, mouse-over effects) to make your visitors aware of them, increasing the chance that they follow/share your blog
+- Make your social media icons "float" or "sticky"
 - Allow visitors to subscribe to your blog by Email 
-- Add "counts" to your icons
+- Add "counts" to your social media icons
 - Decide to display a pop-up (on all or only on selected pages) asking people to follow/share you
-- Decide to display sharing-buttons at the end of every post
+- Decide to display sharing-buttons and social media icons at the end of every post
 - Select from many other customization features!
 
 The social media plugin is very easy to use as it takes you through all the steps: 
 
-- Step 1: Choose which icons you want to display
-- Step 2: Define what actions your icons should perform
-- Step 3: Pick design & animation options for your icons
-- Step 4: Add counts to your icons (optional)
-- Step 5: Select from various other options, e.g. make your icons "float"
+- Step 1: Choose which social media icons you want to display
+- Step 2: Define what actions your social media icons should perform
+- Step 3: Pick design & animation options for your social media icons
+- Step 4: Add counts to your social media icons (optional)
+- Step 5: Select from various other options, e.g. make your social media icons "float"
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
 
