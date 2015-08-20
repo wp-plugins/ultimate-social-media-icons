@@ -8,7 +8,7 @@ Stable tag: 1.2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Social Media plugin which let's you place social media icons to your website. It's 100% FREE and the best social media plugin around with tons of customization features! 
+Social Media plugin which let's you place social media icons on your website. It's 100% FREE and the best social media plugin around. 
 
 == Description ==
 
