@@ -1,4 +1,4 @@
-=== Ultimate Social Media and Share Icons ===
+=== Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
 Tags: social media, social media icons, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
@@ -12,9 +12,9 @@ Easy to use and 100% FREE social media plugin which adds social media icons to y
 
 == Description ==
 
-You can add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
+This social media plugin let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
-The plugin offers a wide range of options, for example you can: 
+The social media plugin offers a wide range of options, for example you can: 
 
 - Pick from 16 different designs for your icons
 - Give several actions to one icon (e.g. your facebook icon can lead visitors to your Facebook page, and also give visitors the opportunity to like your page)
@@ -26,7 +26,7 @@ The plugin offers a wide range of options, for example you can:
 - Decide to display sharing-buttons at the end of every post
 - Select from many other customization features!
 
-The plugin is very easy to use as it takes you through all the steps: 
+The social media plugin is very easy to use as it takes you through all the steps: 
 
 - Step 1: Choose which icons you want to display
 - Step 2: Define what actions your icons should perform
@@ -36,7 +36,9 @@ The plugin is very easy to use as it takes you through all the steps:
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
 
-In case of issues please check the FAQ on http://ultimatelysocial.com 
+In case of issues please check the FAQ on http://ultimatelysocial.com
+
+We hope you enjoy the social media plugin! 
 
 **Want to get alerted if a new plugin version has been released?** Subscribe here http://www.wikilerts.com/secret/getalertedif/a-new-update-for-the-ultimate-social-media-and-share-icons-p
 
