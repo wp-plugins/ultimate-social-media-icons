@@ -1,42 +1,45 @@
-=== Ultimate Social Media and Share Icons ===
+=== Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
-Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
+Tags: social media, social media icons, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: 1.2.3
+Tested up to: 4.3
+Stable tag: 1.2.4
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features! 
+Social Media, social media, social media - this is what this plugin is all about! Add social media icons to your website, 100% FREE.   
 
 == Description ==
 
-You can add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
+Social media plugin which let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
-The plugin offers a wide range of options, for example you can: 
+The social media plugin offers a wide range of options, for example you can: 
 
-- Pick from 16 different designs for your icons
-- Give several actions to one icon (e.g. your facebook icon can lead visitors to your Facebook page, and also give visitors the opportunity to like your page)
-- Decide to give your icons an animation (e.g. automatic shuffling, mouse-over effects) to make your visitors aware of them, increasing the chance that they follow/share your blog
-- Make your icons "float" or "sticky"
+- Pick from 16 different designs for your social media icons
+- Give several actions to one social media icon (e.g. your facebook icon can lead visitors to your Facebook page, and also give visitors the opportunity to like your page)
+- Decide to give your social media icons an animation (e.g. automatic shuffling, mouse-over effects) to make your visitors aware of them, increasing the chance that they follow/share your blog
+- Make your social media icons "float" or "sticky"
 - Allow visitors to subscribe to your blog by Email 
-- Add "counts" to your icons
-- Decide to display a pop-up (on all or only on selected pages) asking people to follow/share you
-- Decide to display sharing-buttons at the end of every post
-- Select from many other customization features!
+- Add "counts" to your social media icons
+- Decide to display a pop-up (on all or only on selected pages) asking people to follow/share you via your social media icons
+- Decide to display sharing-buttons and social media icons at the end of every post
+- Select from many other customization features for your social media icons!
 
-The plugin is very easy to use as it takes you through all the steps: 
+The social media plugin is very easy to use as it takes you through all the steps: 
 
-- Step 1: Choose which icons you want to display
-- Step 2: Define what actions your icons should perform
-- Step 3: Pick design & animation options for your icons
-- Step 4: Add counts to your icons (optional)
-- Step 5: Select from various other options, e.g. make your icons "float"
+- Step 1: Choose which social media icons you want to display
+- Step 2: Define what actions your social media icons should perform
+- Step 3: Pick design & animation options for your social media icons
+- Step 4: Add counts to your social media icons (optional)
+- Step 5: Select from various other options, e.g. make your social media icons "float"
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
+- Step 8: Add a subscription form on your site (optional)
 
-In case of issues please check the FAQ on http://ultimatelysocial.com 
+In case of issues please check the FAQ on http://ultimatelysocial.com/faq
+
+We hope you enjoy the social media plugin! 
 
 **Want to get alerted if a new plugin version has been released?** Subscribe here http://www.wikilerts.com/secret/getalertedif/a-new-update-for-the-ultimate-social-media-and-share-icons-p
 
@@ -74,6 +77,8 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Changelog ==
 
+= 1.2.4 =
+* New question 8 added: you can now also add a subscription form to your site
 
 = 1.2.3 =
 * More explanations added how to fix if counts don't work
@@ -266,5 +271,5 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Upgrade Notice ==
 
-= 1.2.3 =
-Minor updates & icon files compressed for faster loading 
+= 1.2.4 =
+New question (8) added: You can now also show a subscription form on your site!
