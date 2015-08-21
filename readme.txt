@@ -8,7 +8,7 @@ Stable tag: 1.2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Social Media plugin which let's you place social media icons on your website. It's 100% FREE and the best social media plugin around. 
+Social Media, social media, social media - this is what this plugin is all about! Add social media icons to your website, 100% FREE. The best social media plugin around.  
 
 == Description ==
 
@@ -22,9 +22,9 @@ The social media plugin offers a wide range of options, for example you can:
 - Make your social media icons "float" or "sticky"
 - Allow visitors to subscribe to your blog by Email 
 - Add "counts" to your social media icons
-- Decide to display a pop-up (on all or only on selected pages) asking people to follow/share you
+- Decide to display a pop-up (on all or only on selected pages) asking people to follow/share you via your social media icons
 - Decide to display sharing-buttons and social media icons at the end of every post
-- Select from many other customization features!
+- Select from many other customization features for your social media icons!
 
 The social media plugin is very easy to use as it takes you through all the steps: 
 
@@ -36,7 +36,7 @@ The social media plugin is very easy to use as it takes you through all the step
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
 
-In case of issues please check the FAQ on http://ultimatelysocial.com
+In case of issues please check the FAQ on http://ultimatelysocial.com/faq
 
 We hope you enjoy the social media plugin! 
 
