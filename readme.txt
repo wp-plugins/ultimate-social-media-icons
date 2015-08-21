@@ -3,7 +3,7 @@ Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
 Tags: social media, social media icons, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
 Requires at least: 3.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
