@@ -4,11 +4,11 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.r
 Tags: social media, social media icons, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
 Requires at least: 3.0
 Tested up to: 4.3
-Stable tag: 1.2.3
+Stable tag: 1.2.5
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Social Media, social media, social media - this is what this plugin is all about! Add social media icons to your website, 100% FREE.   
+Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features!    
 
 == Description ==
 
@@ -35,6 +35,7 @@ The social media plugin is very easy to use as it takes you through all the step
 - Step 5: Select from various other options, e.g. make your social media icons "float"
 - Step 6: Add sharing/linking icons next to each blog post (optional)
 - Step 7: Add a customized pop-up asking people to follow/share (optional)
+- Step 8: Add a subscription form on your site (optional)
 
 In case of issues please check the FAQ on http://ultimatelysocial.com/faq
 
@@ -76,6 +77,11 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Changelog ==
 
+= 1.2.5 =
+* Updating process fixed
+
+= 1.2.4 =
+* New question 8 added: you can now also add a subscription form to your site
 
 = 1.2.3 =
 * More explanations added how to fix if counts don't work
@@ -268,5 +274,5 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Upgrade Notice ==
 
-= 1.2.3 =
-Minor updates & icon files compressed for faster loading 
+= 1.2.5 =
+New question (8) added: You can now also show a subscription form on your site!
