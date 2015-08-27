@@ -1,10 +1,10 @@
 === Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
-Tags: social media, social media icons, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
+Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
 Requires at least: 3.0
 Tested up to: 4.3
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,9 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 
 == Changelog ==
+
+= 1.2.6 =
+* (Minor) compatibility issues with Wordpress 4.3. fixed
 
 = 1.2.5 =
 * Updating process fixed
@@ -274,5 +277,5 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Upgrade Notice ==
 
-= 1.2.5 =
-New question (8) added: You can now also show a subscription form on your site!
+= 1.2.6 =
+(Minor) compatibility issues with Wordpress 4.3. fixed
