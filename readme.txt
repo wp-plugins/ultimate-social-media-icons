@@ -2,7 +2,7 @@
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
 Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
-Requires at least: 3.0
+Requires at least: 2.8
 Tested up to: 4.3
 Stable tag: 1.2.6
 License: GPLv2 
