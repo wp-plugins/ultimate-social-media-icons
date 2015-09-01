@@ -12,6 +12,8 @@ Easy to use and 100% FREE social media plugin which adds social media icons to y
 
 == Description ==
 
+**Please upgrade to latest version to display counts correctly**
+
 Social media plugin which let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
 The social media plugin offers a wide range of options, for example you can: 
@@ -78,7 +80,7 @@ Please check out the FAQ on http://ultimatelysocial.com
 == Changelog ==
 
 = 1.2.7 =
-* Count issues fixed 
+* Count issues fixed - please upgrade!
 * Style constructor updated to PHP 5
 * Text adjustments in admin area
 
@@ -283,4 +285,4 @@ Please check out the FAQ on http://ultimatelysocial.com
 == Upgrade Notice ==
 
 = 1.2.7 =
-Count issus fixed - please upgrade
+Count issues fixed - please upgrade!
