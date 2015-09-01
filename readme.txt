@@ -1,7 +1,7 @@
 === Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
-Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
+Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, social media widget, socialmedia, social media pop-up
 Requires at least: 2.8
 Tested up to: 4.3
 Stable tag: 1.2.7
@@ -48,7 +48,7 @@ Extract the zip file and drop the contents into the wp-content/plugins/ director
 
 Then go to plugin settings page and follow the instructions. After you're done, go to the Widget area (Appearance >> Widget) and place the widget on your sidebar to display your your icons on your blog.
 
-Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case). If you don't have it, please contact your hosting provider.
+Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case), and a PHP version of 5.4 or above. If you don't have it, please contact your hosting provider or server admin.
 
 == Frequently Asked Questions ==
 
