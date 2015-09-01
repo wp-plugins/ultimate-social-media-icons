@@ -12,8 +12,6 @@ Easy to use and 100% FREE social media plugin which adds social media icons to y
 
 == Description ==
 
-**Please upgrade to latest version to display counts correctly**
-
 Social media plugin which let's you add icons for RSS, Email, Facebook, Twitter, LinkedIn, Google+, Pinterest, Instagram, Youtube, "Share" (covering 200+ other social media platforms) and upload custom icons of your choice. 
 
 The social media plugin offers a wide range of options, for example you can: 
