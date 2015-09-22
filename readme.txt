@@ -1,7 +1,7 @@
 === Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
-Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, sharing buttons, social media widget, socialmedia, social media pop-up, social, social icons, icon, icons, buttons, facebook icon, twitter icon, instagram, instagram icon, counter, facebook, facebook like, like, tweet, tweet button, buttons, tweet icon, youtube, youtube icon, linkedin, linkedin icon, logos, follow, social profiles, social media accounts, social share
+Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, sharing buttons, social media widget, socialmedia, social media pop-up, social, social icons, icon, icons, buttons, facebook icon, twitter icon, instagram, instagram icon, counter, facebook, facebook like, like, tweet, tweet button, buttons, tweet icon, youtube, youtube icon, linkedin, linkedin icon, logos, follow, social profiles, social media accounts, social share, social media plugin
 Requires at least: 2.8
 Tested up to: 4.4
 Stable tag: 1.2.8
