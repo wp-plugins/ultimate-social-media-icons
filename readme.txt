@@ -1,10 +1,10 @@
 === Social Media and Share Icons (Ultimate Social Media) ===
 Contributors: socialdude
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
-Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, social media widget, socialmedia, subscription icons, social media pop-up, newsletter, email newsletter, widget
+Tags: social media, social media icons, social media buttons, social media sharing, floating social media, social media icon, social media button, sharing icons, sharing, sharing buttons, social media widget, socialmedia, social media pop-up, social, social icons, icon, icons, buttons, facebook icon, twitter icon, instagram, instagram icon, counter, facebook, facebook like, like, tweet, tweet button, buttons, tweet icon, youtube, youtube icon, linkedin, linkedin icon, logos, follow, social profiles, social media accounts, social share
 Requires at least: 2.8
-Tested up to: 4.3
-Stable tag: 1.2.7
+Tested up to: 4.4
+Stable tag: 1.2.8
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,7 +48,7 @@ Extract the zip file and drop the contents into the wp-content/plugins/ director
 
 Then go to plugin settings page and follow the instructions. After you're done, go to the Widget area (Appearance >> Widget) and place the widget on your sidebar to display your your icons on your blog.
 
-Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case). If you don't have it, please contact your hosting provider.
+Note: This plugin requires CURL to be activated/installed on your server (which should be the standard case), and a PHP version of 5.4 or above. If you don't have it, please contact your hosting provider or server admin.
 
 == Frequently Asked Questions ==
 
@@ -77,8 +77,17 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Changelog ==
 
+= 1.2.8 =
+* New feature: Users can now decide where exactly the floating icons will display
+* Internal links corrected
+* Fixed: Targets only labels within the social icons div.
+* Subscriber counts fixed
+* Apostrophe issues fixed
+* Conflicts with Yoast SEO plugin resolved
+* PHP errors fixed
+
 = 1.2.7 =
-* Count issues fixed 
+* Count issues fixed - please upgrade!
 * Style constructor updated to PHP 5
 * Text adjustments in admin area
 
@@ -282,5 +291,5 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Upgrade Notice ==
 
-= 1.2.7 =
-Count issus fixed - please upgrade
+= 1.2.8 =
+Several enhancements and fixes - please upgrade!
